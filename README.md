@@ -21,3 +21,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats:
+
+![Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurakCifci743&show_icons=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurakCifci743&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakCifci743&layout=compact&theme=default)
+
